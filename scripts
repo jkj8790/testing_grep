@@ -1,0 +1,68 @@
+# prepend sharp for comments
+
+./grep12
+./grep12 -E -F
+./grep12 --help
+./grep12 -V
+./grep12 hello hello.txt
+./grep12 -f regex hello.txt
+./grep12 -e his hello.txt
+./grep12 -f regex -e his hello.txt
+./grep12 -e hoya* -e his hello.txt
+./grep12 -f regex -e hoya* -e his hello.txt
+./grep12 -i -f regex -e hoya* -e his hello.txt
+./grep12 -y -f regex -e hoya* -e his hello.txt
+./grep12 -v -i -f regex -e hoya* -e his hello.txt
+./grep12 -w -i -f regex -e hoya* -e his hello.txt
+./grep12 -v -w -i -f regex -e hoya* -e his hello.txt
+./grep12 -v -w -i -f regex -e hoya* -e his test.txt
+./grep12 -X -G -v -w -i -f regex -e hoya* -e his hello.txt test.txt
+./grep12 -G -v -w -i -f regex -e hoya* -e his hello.txt test.txt
+./grep12 -x -i -f regex -e hoya* -e his hello.txt
+./grep12 -v -x -i -f regex -e hoya* -e his hello.txt
+
+# check for two file(It increase branch coverage slightly)
+
+# output commands
+./grep12 -c -v -x -i -f regex -e hoya* -e his hello.txt
+./grep12 -L -v -x -i -f regex -e hoya* -e his hello.txt
+./grep12 -l -v -x -i -f regex -e hoya* -e his hello.txt
+./grep12 -l -v -x -i -f regex -e hoya* -e his hello.txt test.txt
+
+# read -m option documentation again
+#./grep12 -m 1 -v -x -i -f regex -e hoya* -e his hello.txt test.txt
+
+./grep12 -q -v -x -i -f regex -e hoya* -e his hello.txt
+./grep12 -s -v -x -i -f regex -e hoya* -e his hello.txt
+
+
+./grep12 -b -v -x -i -f regex -e hoya* -e his hello.txt test.txt
+./grep12 -b -h -v -x -i -f regex -e hoya* -e his hello.txt test.txt
+./grep12 -n -b -h -v -x -i -f regex -e hoya* -e his hello.txt test.txt
+./grep12 -n -b -v -x -i -f regex -e hoya* -e his hello.txt test.txt
+./grep12 -n -b -v -x -i -f regex -e hoya* -e his hello.txt test.txt
+
+./grep12 -A 10 -n -b -v -x -i -f regex -e hoya* -e his hello.txt test.txt
+./grep12 -B 10 -n -b -v -x -i -f regex -e hoya* -e his hello.txt test.txt
+./grep12 -A 10 -B 10 -n -b -v -x -i -f regex -e hoya* -e his hello.txt test.txt
+
+./grep12 -E -v -w -i -f regex -e hoya* -e his hello.txt
+./grep12 -F -v -w -i -f regex -e hoya* -e his hello.txt
+
+./grep12 ([A-Z])\w+ hello.txt
+
+./grep12 -F -v -w -i -f regex2 -e hoya* -e his hello.txt
+
+./grep12 -E ([a-z])\1{2}([a-z])\2{2} hello.txt
+
+./grep12 -e [:alnum:] hello.txt
+
+./grep12 -e <([A-Z][A-Z0-9]*)\DOC[^>]*>.*?</\1> test.txt
+
+# start write scripts with referfencing function branch coverage
+
+
+
+# scripts makes infinite loops
+# ./grep12 --help
+# ./grep12 0

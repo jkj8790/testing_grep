@@ -4,7 +4,7 @@ echo "--------------------------------------------------------------------------
 OPTION=$1
 
 FILE=./test_result.txt
-SCRIPT_FILE=scripts2
+SCRIPT_FILE=scripts
 rm grep.gcda
 
 results=()

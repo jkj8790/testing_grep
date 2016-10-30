@@ -1,0 +1,58 @@
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<DOC>
+<DOCNO> APW19980601.0003 </DOCNO>
+<DOCTYPE> NEWS STORY </DOCTYPE>
+<DATE_TIME> 1998-01-06 00:17:00 </DATE_TIME>
+<HEADER>
+w2211 &Cx1f; wstm-
+r s &Cx13;  &Cx11;  BC-Sports-Motorcycling-G     06-01 0361
+</HEADER>
+<BODY>
+<SLUG> BC-Sports-Motorcycling-Grand Prix-Doohan </SLUG>
+<HEADLINE>
+Doohan calls for upgrade to 1000cc bikes 
+</HEADLINE>
+<TEXT>
+	   SYDNEY, Australia (AP) _ Four-time world 500cc motorcycling
+champion Mick Doohan has called for the establishment of a new
+1000cc class, featuring four-stroke engines, to replace the
+existing machines.
+	   Doohan, who was second behind Spanish teammate Alex Criville in
+Sunday's 500cc French Grand Prix, believes a move to 1000cc
+four-stroke machines would attract new manufacturers such as BMW,
+Ferrari and Ford to grand prix racing as engine builders and
+suppliers.
+	   The 500cc class is the top division for motorcycle racing, but
+Doohan said the two-stroke V4 machines raced by Japanese
+manufacturers Honda, Yamaha and Suzuki for the past 15 years faced
+a limited future.
+	   ``It seems to me the two strokes are reaching the end of their
+era because the 500 V4s have been doing the same lap times for the
+past five years,'' Doohan said Monday.
+	   ``We're not making leaps and bounds forward anymore, the bikes
+never really change, and people lose interest. There's been talk
+about switching to four-stroke grand prix bikes and I think it
+would be awesome to go to a 1000cc prototype.''
+	   Doohan said changing up to 1000cc bikes with light, small
+engines would make the sport more interesting, and more fun for the
+riders.
+	   ``Going to four-stroke prototypes would take the sport to the
+	next level and open up racing to other manufacturers like BMW, or
+even Ford and Ferrari to build engines,'' Doohan said. ``Yamaha
+made Formula One engines even though they don't build cars so it
+could work the other way around.''
+	   Doohan, who has won 48 grand prix races from 126 starts in the
+500cc class since 1989, said a move to 1000cc four-stroke machines
+would be expensive, but the benefits would justify the costs.
+	   ``Racing four-strokes would cost more, but the manufacturers
+aren't afraid to spend if it will do them good,'' Doohan said.
+``It's no use trying to keep it cheap because this isn't club
+racing. If some people can't afford to run four-stroke grand prix
+bikes there's plenty of other championships for them to race in.''
+ &UR; (tjh)
+</TEXT>
+(PROFILE
+(WS SL:BC-Sports-Motorcycling-Grand Prix-Doohan; CT:s; 
+(REG:EURO;)
+(REG:BRIT;)
